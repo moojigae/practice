@@ -1,2 +1,2 @@
 Helloooooooo
-Im so happy to see youguys :)
+I enjoyed learning how to use git. 
